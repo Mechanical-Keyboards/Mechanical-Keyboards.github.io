@@ -1,2 +1,3 @@
 # Mechanical-Keyboards.github.io
-website
+
+[mechanical-keyboards.github.io](https://mechanical-keyboards.github.io)
