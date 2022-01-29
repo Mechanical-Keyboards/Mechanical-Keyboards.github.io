@@ -15,6 +15,9 @@
 - [techkeys.us](https://techkeys.us/)
 - [solutionsinplastic.com](https://www.solutionsinplastic.com/)
 - [wasdkeyboards.com](https://www.wasdkeyboards.com/)
+- [ultimatehackingkeyboard.com](https://ultimatehackingkeyboard.com/)
+- [zsa.io](https://www.zsa.io/)
+- [olkb.com](https://olkb.com/)
 - [imsto.cn](http://imsto.cn/)
 - [geekkeys.com](https://www.geekkeys.com/)
 - [originativeco.com](https://www.originativeco.com/)
@@ -67,6 +70,11 @@
 - [keycap-compatibility-size-chart](http://blog.maxkeyboard.com/dwkb/keycap-compatibility-size-chart/)
 - [max_keycap_profile_size_info](http://blog.maxkeyboard.com/wp-content/uploads/2016/09/MAX_Keycap_Profile_Size_Info.png)
 - [mechanical-keyboard-database](https://github.com/SonixQMK/Mechanical-Keyboard-Database)
+- the-ultimate-keyboard
+   1. [part 1](https://www.vegard.net/the-ultimate-keyboard-part-1/)
+   2. [part 2](https://www.vegard.net/the-ultimate-keyboard-part-2-switches/)
+   3. [part 3](https://www.vegard.net/the-ultimate-keyobard-part-3-sizes-and-layouts/)
+   4. [part 4](https://www.vegard.net/the-ultimate-keyboard-part-4-conclusion/)
 
 ## Communities
 - [Telegram Group](https://t.me/keyboard_enthusiasts)
