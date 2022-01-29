@@ -26,6 +26,11 @@
 - [reddit keycap sellers](https://www.reddit.com/r/MechanicalKeyboards/wiki/keycapsellersä)
 - [geekhack link collection](https://geekhack.org/index.php?topic=45672.0)
 
+## Switches
+- [Cherry MX](https://www.cherrymx.de/en)
+- [Gateron](https://en.gateron.cn/)
+- [Kailh](https://www.kailhswitch.com/)
+
 ## DIY
 - [swillkb.com](http://swillkb.com/)
 - [thingiverse.com](https://www.thingiverse.com/thing:2783650)
@@ -54,6 +59,11 @@
 - [github ErgoTravel](https://github.com/jpconstantineau/ErgoTravel)
 
 ## Knowledge
+- [keyboard.university](https://keyboard.university/)
+- [switchandclick.com](https://switchandclick.com/)
+    1. [switch and click - keycap guide](https://switchandclick.com/ultimate-guide-to-picking-a-keycap-set-for-your-mechanical-keyboard/)
+- [list of keyboard switches](https://en.wikipedia.org/wiki/List_of_keyboard_switches)
+- [keycap material](https://deskthority.net/wiki/Keycap_material)
 - [keycap-compatibility-size-chart](http://blog.maxkeyboard.com/dwkb/keycap-compatibility-size-chart/)
 - [max_keycap_profile_size_info](http://blog.maxkeyboard.com/wp-content/uploads/2016/09/MAX_Keycap_Profile_Size_Info.png)
 - [mechanical-keyboard-database](https://github.com/SonixQMK/Mechanical-Keyboard-Database)
