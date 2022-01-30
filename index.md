@@ -26,6 +26,12 @@
 - [keyboardco.com](https://www.keyboardco.com/)
 - [ohkeycaps.com](https://ohkeycaps.com/)
 - [melgeek.com](https://www.melgeek.com/)
+- [littlekeyboards.com](https://www.littlekeyboards.com/)
+- [mkultra.click](https://mkultra.click/)
+- [keyhive.xyz](https://keyhive.xyz/)
+- [42keebs.eu](https://42keebs.eu/)
+- [1upkeyboards.com](https://1upkeyboards.com/)
+- [candykeys.com](https://candykeys.com/)
 - [reddit keycap sellers](https://www.reddit.com/r/MechanicalKeyboards/wiki/keycapsellersä)
 - [geekhack link collection](https://geekhack.org/index.php?topic=45672.0)
 
@@ -42,6 +48,14 @@
 - [github mechanical-keyboard](https://github.com/help-14/mechanical-keyboard)
 - [github HacKeyboard](https://github.com/masaleiro/HacKeyboard)
 - [github 68Keys.io](https://github.com/sbstjn/68Keys.io)
+
+## Micro Controllers
+- [nicekeyboards.com](https://nicekeyboards.com/)
+- [teensy](https://www.pjrc.com/teensy/)
+- [atmega32u4](https://www.microchip.com/en-us/product/ATmega32U4)
+- [pro micro](https://www.sparkfun.com/products/12640)
+- [elite-c](https://splitkb.com/products/elite-c-low-profile-rev4-microcontroller)
+- [proton-c](https://qmk.fm/proton-c/)
 
 ## Firmware
 - [qmk.fm](https://qmk.fm/)
