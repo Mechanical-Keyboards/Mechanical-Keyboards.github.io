@@ -32,6 +32,7 @@
 - [42keebs.eu](https://42keebs.eu/)
 - [1upkeyboards.com](https://1upkeyboards.com/)
 - [candykeys.com](https://candykeys.com/)
+- [m60-mechanical-keyboard](https://makerdiary.com/pages/m60-mechanical-keyboard)
 - [reddit keycap sellers](https://www.reddit.com/r/MechanicalKeyboards/wiki/keycapsellersä)
 - [geekhack link collection](https://geekhack.org/index.php?topic=45672.0)
 
