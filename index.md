@@ -1,6 +1,7 @@
 # Mechanical Keyboards
 
 ## Shopping
+- [vendors list.com](https://kbd.news/vendors)
 - [mechanicalkeyboards.com](https://mechanicalkeyboards.com/)
 - [drop.com/mechanical-keyboards](https://drop.com/mechanical-keyboards/home)
 - [lowprokb.ca](https://lowprokb.ca/)
@@ -12,6 +13,7 @@
 - [maxkeyboard.com](https://www.maxkeyboard.com/shop/)
 - [kprepublic.com](https://kprepublic.com/)
 - [keypop.net](http://www.keypop.net/)
+- [keychron.com](https://www.keychron.com/)
 - [techkeys.us](https://techkeys.us/)
 - [solutionsinplastic.com](https://www.solutionsinplastic.com/)
 - [wasdkeyboards.com](https://www.wasdkeyboards.com/)
@@ -49,6 +51,7 @@
 - [github mechanical-keyboard](https://github.com/help-14/mechanical-keyboard)
 - [github HacKeyboard](https://github.com/masaleiro/HacKeyboard)
 - [github 68Keys.io](https://github.com/sbstjn/68Keys.io)
+- [build guide](https://golem.hu/keyboard-lexicon/guide/)
 
 ## Micro Controllers
 - [nicekeyboards.com](https://nicekeyboards.com/)
@@ -77,6 +80,7 @@
 - [github ErgoTravel](https://github.com/jpconstantineau/ErgoTravel)
 
 ## Knowledge
+- [keyboard-lexicon](https://golem.hu/keyboard-lexicon/)
 - [keyboard.university](https://keyboard.university/)
 - [switchandclick.com](https://switchandclick.com/)
     1. [switch and click - keycap guide](https://switchandclick.com/ultimate-guide-to-picking-a-keycap-set-for-your-mechanical-keyboard/)
