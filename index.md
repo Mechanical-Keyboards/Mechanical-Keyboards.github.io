@@ -69,6 +69,8 @@
 - [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/)
 - [karabiner-elements.pqrs.org](https://karabiner-elements.pqrs.org/)
 - [ukelele](https://software.sil.org/ukelele/)
+- [keyman](https://github.com/keymanapp/keyman)
+- [keymapdb](https://keymapdb.com)
 - [microsoft keyboard layout creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 - [github keyboard-tools](https://github.com/adamws/keyboard-tools)
 
