@@ -1,5 +1,7 @@
 # Mechanical Keyboards
 
+[Introduction to Mechanical Keyboards](https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards/)
+
 ## Shopping
 - [vendors list.com](https://kbd.news/vendors)
 - [mechanicalkeyboards.com](https://mechanicalkeyboards.com/)
