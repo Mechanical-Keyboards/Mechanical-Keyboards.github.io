@@ -42,6 +42,7 @@
 
 ## Switches
 - [Cherry MX](https://www.cherrymx.de/en)
+- [Cherry MX Guide](https://switchandclick.com/cherry-mx-guide/)
 - [Gateron](https://en.gateron.cn/)
 - [Kailh](https://www.kailhswitch.com/)
 
